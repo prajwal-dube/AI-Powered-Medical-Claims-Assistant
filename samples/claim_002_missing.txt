@@ -1,0 +1,6 @@
+SYNTHETIC SAMPLE - NOT A REAL PATIENT
+Claim ID: C-002
+Patient ID: DEMO-002
+Diagnosis: Sprain
+Amount: 400.00
+Service Date: 2025-08-04

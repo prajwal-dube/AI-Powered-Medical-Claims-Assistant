@@ -1,0 +1,8 @@
+SYNTHETIC SAMPLE - NOT A REAL PATIENT
+Claim ID: C-001
+Patient ID: DEMO-001
+Patient Name: Example Person
+Diagnosis: Asthma
+Procedure: Office consultation
+Amount: 250.00
+Service Date: 2025-08-03
