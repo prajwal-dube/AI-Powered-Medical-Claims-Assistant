@@ -139,3 +139,14 @@ COPILOT_EVALUATION_PROMPT.md   VS Code Copilot instructions
 - Achieved **180/180 field matches and 30/30 exact flag sets on 30 generated labeled fixtures** in the local baseline benchmark; documented the narrow evaluation scope.
 
 Use a deployment bullet mentioning AWS/Azure, a live link, or LLM accuracy **only after** you personally deploy and measure those paths. The Copilot prompt explains how to collect stronger and defensible outcome numbers.
+
+
+## Resume Points ( * ) 
+- Built a medical claims review application using FastAPI, Streamlit and SQLite to process synthetic text and PDF
+uploads, extract six structured fields, and display summaries and review flags.
+- Developed validation and duplicate-detection rules to flag missing procedures, invalid values and possible duplicate
+claims; added identifier masking and a versioned LLM extraction adapter.
+- Matched 180/180 field values and 30/30 expected flag sets across 30 generated claim forms in local
+evaluation; passed 4 pytest tests.
+- Containerised the API and dashboard with Docker Compose and verified uploads, duplicate flags and dashboard
+totals through local API tests.
